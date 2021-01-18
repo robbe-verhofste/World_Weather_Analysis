@@ -1,3 +1,13 @@
+#adding config.py file.
+config.py
+\class
+
+#adding additional files
+API_Practice.ipynb
+Stu_MakingExceptions.ipynb
+Untitled.ipynb
+class
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
