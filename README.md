@@ -1,6 +1,6 @@
 # World_Weather_Analysis
 
-##Concept:
+## Concept:
 
 In this project, we created an travel app for location suitability based on user-defined preferences. First, users enter thier optimal temperature range (high and low). Weather data is then pulled from OpenWeatherAPI and combined with CitiPy via lat-long coordinates. This provides a list of cities with a suitable temperature range for the user. On January 17th, 2021, for example, there were 333 cities with a temperature range of 60-100F.
 
